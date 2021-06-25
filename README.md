@@ -1,2 +1,2 @@
 # Phantester-K
-Team. Phantester TCP/Server (Rust)
+Team. Phantester TCP/Server (C++)
