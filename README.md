@@ -1,2 +1,2 @@
 # Phantester-K
-Team. Phantester TCP/Server (C)
+Team. Phantester TCP/Server 
